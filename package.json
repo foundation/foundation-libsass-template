@@ -1,6 +1,6 @@
 {
   "name": "foundation-libsass-template",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "devDependencies": {
     "node-sass": "~0.8.4",
     "grunt": "~0.4.4",
