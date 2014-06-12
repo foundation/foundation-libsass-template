@@ -1,4 +1,4 @@
-# The Perfect Foundation Stack
+# The Juiced Foundation Stack
 
 This is a template for your next web project using Foundation, Grunt, Libsass, and Assemble!
 
