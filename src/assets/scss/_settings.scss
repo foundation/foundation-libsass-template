@@ -39,8 +39,8 @@
 // Global
 
 // We use these to control various global styles
-// $body-bg: #fff;
-// $body-font-color: #222;
+// $body-bg: #000;
+$body-font-color: #000;
 // $body-font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
 // $body-font-weight: normal;
 // $body-font-style: normal;
@@ -54,12 +54,16 @@
 // $default-float: left;
 
 // We use these as default colors throughout
-// $primary-color: #008CBA;
-// $secondary-color: #e7e7e7;
+$primary-color: #cc0001;
+$secondary-color: #000;
 // $alert-color: #f04124;
 // $success-color: #43AC6A;
 // $warning-color: #f08a24;
 // $info-color: #a0d3e8;
+
+// $primary-dark: darken($primary-color, 10%);
+// $primary-scale-dark: scale-color($primary-color, $lightness: 10%);
+// $primary-light: lighten($primary-color, 10%);
 
 // We use these to make sure border radius matches unless we want it different.
 // $global-radius: 3px;
