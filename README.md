@@ -1,4 +1,4 @@
-# The Perfect Foundation Stack
+# The Juiced Foundation Stack
 
 This is a template for your next web project using Foundation, Grunt, Libsass, and Assemble!
 
@@ -9,6 +9,7 @@ You'll need to have the following items installed before continuing.
   * [Node.js](http://nodejs.org): Use the installer provided on the NodeJS website.
   * [Grunt](http://gruntjs.com/): Run `sudo npm install -g grunt-cli`
   * [Bower](http://bower.io): Run `sudo npm install -g bower`
+
 
 ## Quickstart
 
