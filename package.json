@@ -6,9 +6,5 @@
     "grunt": "~0.4.1",
     "grunt-contrib-watch": "~0.5.3",
     "grunt-sass": "~0.8.1"
-  },
-  "repository" : {
-    "type" : "git",
-    "url" : "https://github.com/zurb/foundation-libsass-template"
-  },
+  }
 }
