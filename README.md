@@ -13,8 +13,7 @@ You'll need to have the following items installed before continuing.
 
 ## Quickstart
 
-Clone this repository:
-`git clone git@github.com:zurb/foundation-libsass-template.git`
+Download this repository. Please don't clone it unless you are collaborating on this project.
 
 Navigate into the directory:
 `cd foundation-libsass-template`
